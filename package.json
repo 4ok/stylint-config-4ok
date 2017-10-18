@@ -2,8 +2,5 @@
   "author": "4ok",
   "name": "stylint-config-4ok",
   "version": "0.0.0",
-  "engines": {
-    "node": ">=4.0.0"
-  },
   "private": true
 }
